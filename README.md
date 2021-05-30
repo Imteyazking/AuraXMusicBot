@@ -81,5 +81,5 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
 - [Roj](https://github.com/rojserbest)
 - [Marvin](https://github.com/BlackStoneReborn)
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+- [Laky](https://github.com/Laky-64) & [Andrew] (https://github.com/AndrewLaneX): PyTgCalls
 
