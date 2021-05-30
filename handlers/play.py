@@ -86,9 +86,9 @@ async def play(client: Client, message_: Message):
         chat_id=message_.chat.id,
         photo="Others/thumbnail2.png",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Support⚡️", url="https://t.me/Imteyaz_info")]]
+            [[InlineKeyboardButton("Support⚡️", url="https://t.me/Imteyaz_support")]]
         ),
-        caption=f"Playing Your song Via  [✯Imteyaz✯](https://t.me/Imteyaz_info).",
+        caption=f"Playing Your song Via  [✯Imteyaz✯](https://t.me/Imteyaz_support).",
          ) 
         tgcalls.pytgcalls.join_group_call(message_.chat.id, file_path)
 
@@ -133,9 +133,9 @@ async def deezer(client: Client, message_: Message):
         chat_id=message_.chat.id,
         photo="final.png",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Support⚡️", url="https://t.me/Imteyaz_info")]]
+            [[InlineKeyboardButton("Support⚡️", url="https://t.me/Imteyaz_support")]]
         ),
-        caption=f"Playing [{title}]({url}) Via [Deezer](https://t.me/Imteyaz_info)."
+        caption=f"Playing [{title}]({url}) Via [Deezer](https://t.me/Imteyaz_support)."
     ) 
     os.remove("final.png")
 # -----------------------------------------------------Jiosaavn-----------------------------------------------------------------
@@ -180,10 +180,10 @@ async def jiosaavn(client: Client, message_: Message):
     await res.delete()
     m = await client.send_photo(
         chat_id=message_.chat.id,
-        caption=f"Playing {sname} Via [Jiosaavn](https://t.me/Imteyaz_info)",
+        caption=f"Playing {sname} Via [Jiosaavn](https://t.me/Imteyaz_support)",
         photo="final.png",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("Support⚡️", url="https://t.me/Imteyaz_info")]]
+            [[InlineKeyboardButton("Support⚡️", url="https://t.me/Imteyaz_support")]]
         ),
     )
     os.remove("final.png")
@@ -235,7 +235,7 @@ async def ytp(client: Client, message_: Message):
     res.delete
     m = await client.send_photo(
         chat_id=message_.chat.id,
-        caption=f"Playing `{query}` Via [YouTube](https://t.me/Imteyaz_info)",
+        caption=f"Playing `{query}` Via [YouTube](https://t.me/Imteyaz_support)",
         photo="final.png",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("Watch on youtube", url=link)]]
