@@ -1,5 +1,5 @@
-# AuraXMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
-[![AuraXMusicBot logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/AuraXNetwork)
+#  Aurax_Music_bot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
+[![AuraXMusicBot logo](https://telegra.ph/file/a1887512c6b0f55c9dc5a.jpg)](https://t.me/Imteyaz_support)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -7,10 +7,10 @@ Neither su music project , nor pytgcalls are stable
 
 
 <p align="center">
-<a href="https://app.codacy.com/gh/AuraXNetwork/AuraXMusicBot?utm_source=github.com&utm_medium=referral&utm_content=AuraXNetwork/AuraXMusicBot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
+<a href="https://app.codacy.com/gh/Imteyaz_support/Aurax_Music_bot?utm_source=github.com&utm_medium=referral&utm_content=AuraXNetwork/AuraXMusicBot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
 <a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/AuraXNetwork/AuraXMusicBot" /> </a>
-<a href="http://hits.dwyl.com/AuraXNetwork/AuraXMusicBot" alt="HitCount"> <img src="http://hits.dwyl.com/AuraXNetwork/AuraXMusicBot.svg" /> </a>
+<a href="http://hits.dwyl.com/AuraXNetwork/AuraXMusicBot" alt="HitCount"> <img src="http://hits.dwyl.com/AuraXNetwork/Aurax_Music_bot.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/AuraXNetwork/AuraXMusicBot?style=flat&logo=github&color=success" /> </a>
@@ -68,16 +68,18 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - `/pause` to pause the stream 
 - `/resume` to resume the playback. 
 - Inline search is also supported.
+     💥@Imteyaz_king💥
+@FRIENDS_FOREVER_OFFICIAL_CHAT
 
 * Bot Link:  <a href="https://t.me/AuraXMusicBot" alt="AuraXMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusicBot-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="AuraXMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusicBot%20Updates-9cf" /> </a>
+* News channel: <a  href="https://t.me/imteyaz_support_logs" alt="AuraXMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusicBot%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/AuraXNetwork)
-- [Group](https://t.me/AuraXSupport)
+- [Channel](https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT)
+- [Group](https://t.me/imteyaz_support_logs)
 
 ## Credits
-- [iisgaurav](https://github.com/iisgaurav): developer
+- [Imteyaz](https://github.com/Imteyazking): developer
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
 - [Roj](https://github.com/rojserbest)
 - [Marvin](https://github.com/BlackStoneReborn)
