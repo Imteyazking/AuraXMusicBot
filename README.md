@@ -16,7 +16,7 @@ Neither su music project , nor pytgcalls are stable
 <a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/AuraXNetwork/AuraXMusicBot?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/AuraXNetwork/AuraXMusicBot" /> </a>
 <a href="https://github.com/AuraXNetwork/AuraXMusicBot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/AuraXNetwork/AuraXMusicBot?style=flat&logo=github" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/AuraXNetwork/AuraXMusicBot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/AuraXNetwork/AuraXMusicBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Imteyazking/Aurax_Music_bot?label=Forks&logo=github" /> </a>
 <a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/AuraXNetwork/AuraXMusicBot?color=success" /> </a>
 <a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/AuraXNetwork/AuraXMusicBot?style=flat&logo=github&color=yellow" /> </a>
 </p>
@@ -71,7 +71,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
      💥@Imteyaz_king💥
 @FRIENDS_FOREVER_OFFICIAL_CHAT
 
-* Bot Link:  <a href="https://t.me/AuraXMusicBot" alt="AuraXMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusicBot-blue" /> </a>
+* Bot Link:  <a href="https://t.me/Aurax_Music_bot" alt="AuraXMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aurax_Music_bot-blue" /> </a>
 * News channel: <a  href="https://t.me/imteyaz_support_logs" alt="AuraXMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusicBot%20Updates-9cf" /> </a>
 
 ## Support
